@@ -98,7 +98,7 @@ const Index = () => {
               </h2>
               <p className="text-lg text-muted-foreground leading-relaxed mb-8">
                 Открываем новые имена в литературе через призму шоу-бизнеса. 
-                Каждая история — это путь от сцены к страницам.
+                Каждая история — это путь к знанию и пониманию.
               </p>
               <div className="flex gap-4">
                 <Button size="lg" className="bg-black text-white hover:bg-black/90">
