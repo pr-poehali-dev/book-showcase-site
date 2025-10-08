@@ -92,9 +92,9 @@ const Index = () => {
                 ЛИТЕРАТУРНОЕ АГЕНТСТВО
               </div>
               <h2 className="text-6xl md:text-7xl font-display font-bold leading-none mb-6">
-                Книги,<br />
-                рождённые<br />
-                из звёзд
+                Книги, которые<br />
+                помогают больше<br />
+                понять шоу бизнес
               </h2>
               <p className="text-lg text-muted-foreground leading-relaxed mb-8">
                 Открываем новые имена в литературе через призму шоу-бизнеса. 
