@@ -300,7 +300,7 @@ const Index = () => {
       <footer className="py-8 px-6 bg-black text-white border-t border-white/10">
         <div className="container mx-auto text-center">
           <p className="text-sm text-gray-400">
-            © 2024 Literary Agent. Все права защищены.
+            © 2024 Literary Agent. Все права защищены
           </p>
         </div>
       </footer>
